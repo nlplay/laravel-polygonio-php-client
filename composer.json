@@ -1,5 +1,5 @@
 {
-  "name": "vendor_name/laravel-polygonio-php-client",
+  "name": "ynijar/laravel-polygonio-php-client",
   "description": "polygon.io php client for laravel",
   "type": "library",
   "license": "MIT",
