@@ -1,0 +1,21 @@
+{
+  "name": "vendor_name/laravel-polygonio-php-client",
+  "description": "polygon.io php client for laravel",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vladislav Blinov"
+    }
+  ],
+  "require": {
+    "php": "^7.3",
+    "laravel/framework": "^8.0 || ^7.0",
+    "ynijar/polygonio-php-client": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "LPolygonIO\\": "src/"
+    }
+  }
+}
