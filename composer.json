@@ -17,5 +17,12 @@
     "psr-4": {
       "LPolygonIO\\": "src/"
     }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "LPolygonIO\\PolygonIOServiceProvider"
+      ]
+    }
   }
 }
