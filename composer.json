@@ -1,11 +1,11 @@
 {
-  "name": "ynijar/laravel-polygonio-php-client",
+  "name": "nlplay/laravel-polygonio-php-client",
   "description": "polygon.io php client for laravel",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "Vladislav Blinov"
+      "name": "NLPlay"
     }
   ],
   "require": {
